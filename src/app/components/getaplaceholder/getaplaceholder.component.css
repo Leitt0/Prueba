@@ -1,0 +1,12 @@
+.tabla > tr {
+    cursor: pointer;    
+}
+.tabla tr:hover td{
+    background-color: #b9c1c9 !important;
+}
+
+.LoadingTable {
+    background-color: #cdd3d8;
+    height: 1em;
+    border-radius: 1em;
+}

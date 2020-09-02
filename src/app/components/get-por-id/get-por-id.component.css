@@ -1,0 +1,38 @@
+.CardLoaderTitle {    
+    background-color: #dadada;
+    width: 35%;
+    height: 1em;
+    border-radius: 1em;
+}
+
+.bg-dark .CardLoaderTitle{
+    background-color: #474e55;
+}
+
+.CardLoaderBody1 {
+    background-color: #f3f3f3;
+    width: 100%;
+    height: 1em;
+    border-radius: 1em;
+}
+
+.bg-dark .CardLoaderBody1 {
+    background-color: #474e55;
+}
+
+.CardLoaderBody2 {
+    background-color: #f3f3f3;
+    width: 25%;
+    height: 1em;
+    border-radius: 1em;
+}
+.bg-dark .CardLoaderBody2{
+    background-color: #474e55;
+}
+
+.CardLoaderFooter {
+    background-color: #474e55;
+    width: 45%;
+    height: 1em;
+    border-radius: 1em;
+}
